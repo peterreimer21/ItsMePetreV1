@@ -1,5 +1,11 @@
 # ItsMePetreV1
 
+### Anleitung: <br>
+1. JDK & JDK 23 installieren (x64 Installer) -> https://www.oracle.com/java/technologies/downloads/#jdk23-windows
+2. cmd öffnen und "java -version" eingeben
+3. falls version mit 23.* anfängt ist alles gut
+4. "java -jar /Downloads/ItsMePetre.jar" eingeben
+
 
 ### Description:<br>
 First version of a 2D game from school
